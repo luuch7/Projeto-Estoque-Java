@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+}
+body {
+    background:url('../img/overlay.png'),url('../img/158850.jpg');
+    background-size: 100% auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h2{
+    color: #ffffff;
+}
